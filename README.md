@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @manojkumarmjk
 - 👀 I’m interested in Android And Web Development
 - 🌱 I’m currently learning New Framework of Web Development
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on my Projects
 - 📫 You can reach me on email id: manojkumarmjk.iimt@gmail.com
 
 <!---
